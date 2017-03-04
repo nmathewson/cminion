@@ -1,0 +1,19 @@
+GETTING IT OUT THE DOOR
+ Start with the unit tests.
+
+IMPLEMENTATION
+
+ packet handling and generation, backend. (DONE, UNTESTED)
+ packet generation, exported version.
+ parsing surbs.
+ parsing serverdescs.
+ generating surbs.
+ packet handling, exported.
+ actually make it compile
+ MMTP (?)
+ end-to-end
+
+CORRECTNESS
+
+ check all return values from mix3_alloc, mix3_free.
+ zero everything everywhere

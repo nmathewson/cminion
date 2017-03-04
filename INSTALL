@@ -1,0 +1,10 @@
+
+(If you're running from a development snapshot, start with ./autogen.sh .)
+
+Then, for everybody:
+
+  ./configure
+  make
+  make install
+
+Good luck!
